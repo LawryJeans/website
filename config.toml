@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://confident-goldstine-0b1717.netlify.app"
 title = "There's something about Ronnie"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
